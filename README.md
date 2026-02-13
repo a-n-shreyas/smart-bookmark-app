@@ -264,3 +264,4 @@ If you encounter any issues, please check:
 3. Environment variables are set properly
 4. Realtime is enabled for the bookmarks table
 5. RLS policies are active
+
